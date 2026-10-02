@@ -1,0 +1,38 @@
+{
+  "id": "/",
+  "name": "LipiAI Polyglot Translator",
+  "short_name": "LipiAI",
+  "description": "AI-powered glass 3D real-time polyglot translator for Myanmar, English, Pali, Vietnamese, Sanskrit, Shan, and Mon.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#090d16",
+  "background_color": "#07090e",
+  "icons": [
+    {
+      "src": "/pwa-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/pwa-maskable-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

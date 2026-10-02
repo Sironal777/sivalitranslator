@@ -1,0 +1,6 @@
+{
+  "name": "LipiAI Polyglot Translator - မာဂဓ ရှမ်း မွန် မြန်မာ အင်္ဂလိပ် ဘာသာပြန်",
+  "description": "AI-powered glass 3D real-time polyglot translator for Myanmar, English, Pali, Vietnamese, Sanskrit, Shan, and Mon with natural nuance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
